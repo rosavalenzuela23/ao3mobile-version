@@ -1,0 +1,31 @@
+{
+    "content": {
+        "General Audiences": "For general Audiences",
+        "Teen And Up Audiences": "Teen And Up Audiences",
+        "Mature": "Mature",
+        "Explicit": "Explicit: only suitable for adults",
+        "The work was not given any rating": "The work was not given any rating"
+    },
+    "orientation": {
+        "F/F": "Female/Female relationship",
+        "F/M": "Female/Male relationship",
+        "Gen": "No romantic or sexual relationships, or relationships which are not the main focus of the work",
+        "M/M": "Male/Male relationship",
+        "Multi": "More than one kind of relationship, or a relationship with multiple partners",
+        "Other relationships": "Other relationships",
+        "The work was not put in any categories": "The work was not put in any categories"
+    },
+    "warning": {
+        "The author chose not to warn for content, or Archive Warnings could apply, but the author has chosen not to specify them": "The author chose not to warn for content, or Archive Warnings could apply, but the author has chosen not to specify them.",
+        "Graphic Depictions Of Violence": "At least one of these warnings applies: graphic depictions of violence, major character death, rape/non-con, underage sex. The specific warnings are shown in the Archive Warnings tags.",
+        "The work was not marked with any Archive Warnings. Please note that an author may have included other information about their work in the Additional Tags (Genre, Warnings, Other Information) section": "The work was not marked with any Archive Warnings. Please note that an author may have included other information about their work in the Additional Tags (Genre, Warnings, Other Information) section",
+        "This is an external work; please consult the work itself for warnings": "This is an external work; please consult the work itself for warnings.",
+        "No Archive Warnings Apply": "No warnings",
+        "Choose Not To Use Archive Warnings": "Choose not to use archive warnings"
+    },
+    "status": {
+        "Work in Progress": "This is a work in progress or is incomplete/unfulfilled.",
+        "Complete Work": "This work is completed!/This prompt is filled!",
+        "This work's status is unknown": "This work's status is unknown."
+    }
+}
